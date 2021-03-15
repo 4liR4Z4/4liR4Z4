@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4liR4Z4
 - 👀 I’m interested in developing web sites.
 - 🌱 I’m currently learning web development from Udemy.
-- 💞️ I’m looking to collaborate on responsive web sites.
+- 💞️ I’m looking to collaborate on responsive web sites and SPA's.
 - 📫 Here is how you can reach me: zaidi.aliraza01@gmail.com & www.linkedin.com/in/41i-r4z4
 
 <!---
